@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About me
-I am an Assistant Professor at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. I received my B.S. in Applied Physics from Zhejiang University of Technology in 2012 and my Ph.D. in Theoretical Physics from the Institute of Physics, Chinese Academy of Sciences in 2017. My research lies at the intersection of physics, mathematics, and artificial intelligence, with a particular focus on developing computational algorithms and applying AI-driven methods to scientific and engineering problems. My expertise includes numerical computation, scientific computing, optimization, and machine learning. I have led research projects funded by the National Natural Science Foundation of China (NSFC) and industry partners.
+I am an Assistant Professor at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I received my B.S. in Applied Physics from Zhejiang University of Technology in 2012 and my Ph.D. in Theoretical Physics from the Institute of Physics, Chinese Academy of Sciences in 2017. My research lies at the intersection of physics, mathematics, and artificial intelligence, with a particular focus on developing computational algorithms and applying AI-driven methods to scientific and engineering problems. My expertise includes numerical computation, scientific computing, optimization, and machine learning. I have led research projects funded by the National Natural Science Foundation of China (NSFC) and industry partners.
 
 
 # Research interests
