@@ -17,7 +17,7 @@ I am an Assistant Professor at the Shenzhen Institute of Advanced Technology (SI
 *  AI+ Biomedicine: Segmentation, Deblurring, ...
 
 # News
-* Our paper ***Edge-SegStar: When bidirectional adaptive self-distillation meets biomedical segmentation on edge devices*** is accepted by Biomedical Signal Processing and Control
+* Our paper ***Edge-SegStar: When bidirectional adaptive self-distillation meets biomedical segmentation on edge devices*** is accepted by Biomedical Signal Processing and Control, 2026
 * Our Paper ***Improving Infinitely Deep Bayesian Neural Networks with Nesterov's Accelerated Gradient Method*** is accepted by 2026 3rd International Conference on Machine Learning and Intelligent Computing
 
 
