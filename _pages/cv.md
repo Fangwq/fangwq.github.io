@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in theoretical physics, Institute of Physics, Chinese Academy of Sciences, 2012-2017
+* Ph.D. in theoretical physics, Institute of Physics, Chinese Academy of Sciences, 2012-2017
 * B.S. in applied physics, Zhejiang University of Technology, 2008-2012
 
 Work experience
