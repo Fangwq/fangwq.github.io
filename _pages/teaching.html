@@ -1,12 +1,36 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
+<!-- 使用 <ul> 标签创建列表 -->
+<ul>
+  <!-- style="margin-bottom: 20px;" 用于增加这一行与下一行的距离，实现明显的“换行”效果 -->
+  <li style="margin-bottom: 20px;">
+    <strong>Current students</strong>
+    <ul>
+      <li>Jiachi Zhang, Undergraduate, South China University of Technology </li>
+    <!-- 这里可以添加具体的学生名单，如果没有可留空 -->
+    </ul>  
+  </li>
 
-{% for post in site.teaching reversed %}
+  <li>
+    <strong>Alumnus</strong>
+    <!-- 嵌套列表，自动缩进显示人名 -->
+    <ul>
+      <li>Bolin Xue, Master -> Civil servant in Hangzhou</li>
+      <li>Zhuoyu Wu, Master -> Ph.D in Monash University </li>
+      <li>Chenxu Yu, Undergraduate -> Ph.D in Fudan University</li>
+      <li>Jiayan Yang, Undergraduate -> Master in Tokyo Institute of Technology </li>
+      <li>Hao Sun, Undergraduate -> Master in Harbin Engineering University </li>
+      <li>Junhe Zhao, High School -> University of California, Davis </li>
+    </ul>
+  </li>
+</ul>
+
+<!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
