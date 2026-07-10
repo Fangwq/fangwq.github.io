@@ -21,9 +21,9 @@ Work experience
 * Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Postdoctoral researcher, 2018.5-2020.7
 * Hylight Technology CO.Ltd, Algorithm engineer, 2017.7-2018.5
   
-Foundings
+Funds
 ======
-* Principal Investigator (PI), National Natural Science Foundation of China Youth Science Fund Program (Category C), Theoretical Research on Gaussian Process Method Based on Symmetry Principle, <!--Grant No. 12401676,--> ¥300,000, 2025.1 – 2027.12
+* PI, National Natural Science Foundation of China Youth Science Fund Program (Category C), Theoretical Research on Gaussian Process Method Based on Symmetry Principle, <!--Grant No. 12401676,--> ¥300,000, 2025.1 – 2027.12
 * PI, Shenzhen Meili Nanopore Technology Co., Ltd., Design and Development of Classification Algorithms for Time-Series Data, <!--Grant No. E3Z0901001,--> ¥150,000, 2023.8 – 2024.8
 
 <!--Publications
