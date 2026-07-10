@@ -14,15 +14,30 @@ author_profile: true
 </p>
 
 <!-- 招聘广告部分 -->
-<div style="background-color: #2c3e50; border-left: 4px solid #3498db; padding: 20px; margin-bottom: 30px; border-radius: 0 4px 4px 0; color: #ffffff;">
-  <h3 style="margin-top: 0; color: #ffffff;"> Open Positions </h3>
-  <p style="margin-bottom: 10px; color: #ecf0f1;">
+<div style="
+    /* 使用 CSS 变量定义背景色：亮色模式为浅灰，暗色模式为深灰 */
+    background-color: var(--background-color-alt, #f9f9f9); 
+    border-left: 4px solid var(--primary-color, #2a7ae2); 
+    padding: 20px; 
+    margin-bottom: 30px; 
+    border-radius: 0 4px 4px 0;
+    /* 确保文字颜色跟随全局设置，或者强制指定 */
+    color: var(--text-color, #333); 
+">
+  
+  <!-- 标题颜色也改为跟随全局或自适应 -->
+  <h3 style="margin-top: 0; color: var(--primary-color, #2a7ae2);"> 
+    Open Positions 
+  </h3>
+  
+  <p style="margin-bottom: 10px;">
     I am actively seeking highly motivated <strong>Undergraduate/Master/Ph.D. students</strong>. 
     Ideal candidates should have a strong background in Physics/Mathematics/AI and a passion for interdisciplinary research.
   </p>
-  <p style="margin-bottom: 0; color: #ecf0f1;">
+  
+  <p style="margin-bottom: 0;">
     <strong>How to Apply:</strong> Please send your CV to 
-    <a href="mailto:wq.fang@siat.ac.cn" style="color: #3498db; text-decoration: underline;">wq.fang@siat.ac.cn</a>.
+    <a href="mailto:wq.fang@siat.ac.cn">wq.fang@siat.ac.cn</a>.
   </p>
 </div>
 
