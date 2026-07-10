@@ -11,37 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in theoretical physics, Institute of Physics, Chinese Academy of Sciences, 2012-2017
+* B.S. in applied physics, Zheiiang University of Technology, 2008-2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Assistant Professor, 2023.2-Present
+* Nanhu Laboratory, Associate Professor, 2020.10-2022.12
+* Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Postdoctoral researcher, 2018.5-2020.7
+* Hylight Technology CO.Ltd, Algorithm engineer, 2017.7-2018.5
   
-Skills
+Foundings
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Principal Investigator (PI), National Natural Science Foundation of China Youth Science Fund Program (Category C), Theoretical Research on Gaussian Process Method Based on Symmetry Principle, Grant No. [12401676], ¥300,000, 2025.1 – 2027.12
+* PI, Shenzhen Meili Nanopore Technology Co., Ltd., Design and Development of Classification Algorithms for Time-Series Data, Grant No. E3Z0901001, ¥150,000, 2023.8 – 2024.8
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +46,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
