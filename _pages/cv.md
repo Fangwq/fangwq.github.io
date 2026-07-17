@@ -23,7 +23,7 @@ Work experience
   
 Funds
 ======
-* National Natural Science Foundation of China Youth Science Fund Program (Category C), Theoretical Research on Gaussian Process Method Based on Symmetry Principle, PI, <!--Grant No. 12401676,-->¥300,000, 2025.1-2027.12
+* National Natural Science Foundation of China, Youth Science Fund Program (Category C), Theoretical Research on Gaussian Process Method Based on Symmetry Principle, PI, <!--Grant No. 12401676,-->¥300,000, 2025.1-2027.12
 * Shenzhen Meili Nanopore Technology Co., Ltd., Design and Development of Classification Algorithms for Time-Series Data, PI, <!--Grant No. E3Z0901001,-->¥150,000, 2023.8-2024.8
 
 <!--Publications
