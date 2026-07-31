@@ -20,6 +20,7 @@ I am an Assistant Professor at the Shenzhen Institutes of Advanced Technology, C
 *  AI + Biomedicine: Segmentation, Deblurring, ...
 
 # News
+* Our papers ***RoiMAM: Region-Of-Interest Medical Attention Model for Efficient Vision-Language Understanding*** and ***RIGS-Refiner: Risk-Guided Recursive Refinement in Prediction Space for Colonoscopy Polyp Segmentation*** are accepted by the APSIPA Annual Summit and Conference 2026.
 * 🔥 Our paper ***Edge-SegStar: When bidirectional adaptive self-distillation meets biomedical segmentation on edge devices*** is accepted by Biomedical Signal Processing and Control, 2026
 * 🔥 Our Paper ***Improving Infinitely Deep Bayesian Neural Networks with Nesterov's Accelerated Gradient Method*** is accepted by 2026 3rd International Conference on Machine Learning and Intelligent Computing
 
