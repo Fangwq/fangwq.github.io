@@ -21,7 +21,7 @@ Work experience
 * Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Postdoctoral researcher, 2018.5-2020.7
 * Hylight Technology CO.Ltd, Algorithm engineer, 2017.7-2018.5
   
-Funds
+Grants
 ======
 * Shenzhen Municipal Government, Shenzhen Talent Program (Category C), 2025.12-2028.11
 * National Natural Science Foundation of China, Youth Science Fund Program (Category C), Theoretical Research on Gaussian Process Method Based on Symmetry Principle, PI, <!--Grant No. 12401676,-->¥300,000, 2025.1-2027.12
