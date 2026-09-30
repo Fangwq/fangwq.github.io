@@ -14,7 +14,7 @@ Education
 * Ph.D. in theoretical physics, Institute of Physics, Chinese Academy of Sciences, 2012-2017
 * B.S. in applied physics, Zhejiang University of Technology, 2008-2012
 
-Work experience
+Experience
 ======
 * Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Assistant Professor, 2023.2-Present
 * Nanhu Laboratory, Associate Professor, 2020.10-2022.12
