@@ -23,6 +23,7 @@ Experience
   
 Grants
 ======
+* National Natural Science Foundation of China, International (Regional) Cooperation and Exchange Program, SMR#4234 1st Italy-China Mathematical Bilateral Meeting, PI, ¥20,000, 2026.08.01-2026.12.31
 * Shenzhen Municipal Government, Shenzhen Talent Program (Category C), 2025.12-2028.11
 * National Natural Science Foundation of China, Youth Science Fund Program (Category C), Theoretical Research on Gaussian Process Method Based on Symmetry Principle, PI, <!--Grant No. 12401676,-->¥300,000, 2025.1-2027.12
 * Shenzhen Meili Nanopore Technology Co., Ltd., Design and Development of Classification Algorithms for Time-Series Data, PI, <!--Grant No. E3Z0901001,-->¥150,000, 2023.8-2024.8
